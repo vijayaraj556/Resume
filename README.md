@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="https://media.licdn.com/dms/image/v2/D5603AQGmpTpWpUAXjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721465627383?e=2147483647&v=beta&t=lRV-jIjPBgj0SpFtZR4oGh-HHNPv7z4GgNJjPTLGxsc">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maddala Vijayaraj</title>
     <style>
