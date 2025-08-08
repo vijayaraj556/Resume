@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="https://media.licdn.com/dms/image/v2/D5603AQGmpTpWpUAXjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721465627383?e=2147483647&v=beta&t=lRV-jIjPBgj0SpFtZR4oGh-HHNPv7z4GgNJjPTLGxsc">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maddala Vijayaraj</title>
+    <title>VIJAYARAJ MADDALA</title>
     <style>
         body {
             /* font-family: Arial, sans-serif; */
@@ -80,8 +80,8 @@
 </head>
 <body>
     <div class="container">
-       <img src="https://media.licdn.com/dms/image/v2/D5603AQGmpTpWpUAXjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721465627383?e=2147483647&v=beta&t=lRV-jIjPBgj0SpFtZR4oGh-HHNPv7z4GgNJjPTLGxsc" alt="https://media.licdn.com/dms/image/v2/D5603AQGmpTpWpUAXjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721465627383?e=2147483647&v=beta&t=lRV-jIjPBgj0SpFtZR4oGh-HHNPv7z4GgNJjPTLGxsc" class="https://media.licdn.com/dms/image/v2/D5603AQGmpTpWpUAXjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721465627383?e=2147483647&v=beta&t=lRV-jIjPBgj0SpFtZR4oGh-HHNPv7z4GgNJjPTLGxsc">
-        <h1>Maddala Vijayaraj</h1>
+       <img src="profile.png" alt="Profile Image" class="profile-image">
+        <h1>VIJAYARAJ MADDALA</h1>
         <h2>Student | Tech Enthusiast | Web Development</h2>
         <p>To secure a challenging position in a dynamic organization where I can utilize my technical skills, creativity, and ability to learn quickly, in order to contribute to the growth and success of the organization, while enhancing my own professional growth and development.</p>
 
@@ -92,10 +92,10 @@
                 <li> West Godavari Institute of Science and Engineering collage <br>
                 2023 – 2027 | prakasraopalem, Nallajerlla ,Andhra Pradesh,534112 | CGPA: 6.98</li>
                 <li><strong>Pre University Course - MPC</strong></li>
-                <li>Vijetha Juniour collage Chintalapudi <br>
-                2021 – 2023 | Chintalapudi, Andhra Pradesh ,534112| CGPA: 6.5</li>
-                <li><strong>SSC</strong>, T.Narasapuram Zilla Parishath High School<br>
-                2020 – 2021 | T.Narasapuram, Andhra Pradesh,534112 | GPA: 8.5</li>
+                <li> Vijetha Juniour collage <br>
+                2021 – 2023 | Chintalapudi, Andhra Pradesh ,534460| CGPA: 8.5</li>
+                <li><strong>SSC</strong>, Zilla Parishath High School<br>
+                2020 – 2021 | T.Narasapuram, Andhra Pradesh,534467| GPA: 8.5</li>
             </ul>
         </div>
 
@@ -129,7 +129,7 @@
         <div class="section">
             <div class="section-title">Contact</div>
             <p>Email: <a  class="link">maddalavijayaraj@gmail.com</a></p>
-            <p>Phone: +91 9542311392 </p>
+            <p>Phone: +91 9542311392</p>
             
         </div>
     </div>
