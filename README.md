@@ -80,7 +80,7 @@
 </head>
 <body>
     <div class="container">
-       <img src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cda293bb-48f6-43c4-a9e5-59e6a133c013"alt="Profile Image" class="profile-image"/>
+       <img src="https://github.com/user-attachments/assets/cda293bb-48f6-43c4-a9e5-59e6a133c013"alt="Profile Image" class="profile-image"/>
         <h1>VIJAYARAJ MADDALA</h1>
         <h2>Student | Tech Enthusiast | Web Development</h2>
         <p>To secure a challenging position in a dynamic organization where I can utilize my technical skills, creativity, and ability to learn quickly, in order to contribute to the growth and success of the organization, while enhancing my own professional growth and development.</p>
