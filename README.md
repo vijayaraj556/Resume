@@ -81,7 +81,7 @@
 <body>
     <div class="container">
        <img src="profile.png" alt="Profile Image" class="profile-image">
-        <h1>Ramya Pathivada</h1>
+        <h1>Maddala Vijayaraj</h1>
         <h2>Student | Tech Enthusiast | Web Development</h2>
         <p>To secure a challenging position in a dynamic organization where I can utilize my technical skills, creativity, and ability to learn quickly, in order to contribute to the growth and success of the organization, while enhancing my own professional growth and development.</p>
 
