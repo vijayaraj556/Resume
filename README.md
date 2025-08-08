@@ -80,7 +80,7 @@
 </head>
 <body>
     <div class="container">
-       <img src="profile.png" alt="Profile Image" class="profile-image">
+       <img src="https://media.licdn.com/dms/image/v2/D5603AQGmpTpWpUAXjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721465627383?e=2147483647&v=beta&t=lRV-jIjPBgj0SpFtZR4oGh-HHNPv7z4GgNJjPTLGxsc" alt="Profile Image" class="profile-image">
         <h1>VIJAYARAJ MADDALA</h1>
         <h2>Student | Tech Enthusiast | Web Development</h2>
         <p>To secure a challenging position in a dynamic organization where I can utilize my technical skills, creativity, and ability to learn quickly, in order to contribute to the growth and success of the organization, while enhancing my own professional growth and development.</p>
